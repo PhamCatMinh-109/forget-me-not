@@ -1,4 +1,4 @@
-package fmn.frontend.resources;
+package com.kik.forget.me.not.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

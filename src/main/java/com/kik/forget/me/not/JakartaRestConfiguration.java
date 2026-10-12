@@ -1,4 +1,4 @@
-package fmn.backend;
+package com.kik.forget.me.not;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
