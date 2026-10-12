@@ -1,0 +1,31 @@
+# Build output
+/build/
+/dist/
+/target/
+/nbdist/
+/nbbuild/
+*.class
+
+# NetBeans
+/nbproject/private/
+nbproject/private/
+nb-configuration.xml
+/nbactions.xml
+.nb-gradle/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Các IDE khác
+.idea/
+*.iml
+.vscode/
